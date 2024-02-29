@@ -1,0 +1,12 @@
+{
+    "name": "maf-converter",
+    "version": "1.0.0",
+    "description": "Package for convert everything",
+    "main": "index.js",
+    "keywords": [
+        "convert",
+        "length"
+    ],
+    "author": "Arief Fakhrudin",
+    "license": "MIT"
+}

@@ -1,6 +1,6 @@
 {
     "name": "maf-converter",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Package for convert everything",
     "main": "index.js",
     "author": "Arief Fakhrudin",

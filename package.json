@@ -1,6 +1,6 @@
 {
     "name": "maf-convert",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Package for convert everything",
     "main": "index.js",
     "author": "Arief Fakhrudin",
@@ -21,6 +21,7 @@
         "api-wilayah-indonesia": "^1.0.4",
         "maf-blockchain": "^1.0.0",
         "maf-icons": "^1.0.0",
+        "maf-image": "^1.0.0",
         "maf-string": "^1.0.0",
         "maf-table": "^1.0.0",
         "maf-zone": "^1.0.0"
